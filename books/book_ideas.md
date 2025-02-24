@@ -12,3 +12,4 @@
 - [ ] E3D for dummies
 - [ ] Mastering git
 - [ ] AutoCad P&ID norwegian
+- [ ] E3D for Civil
