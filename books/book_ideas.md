@@ -10,3 +10,4 @@
 - [x] Mastering git
 - [x] Care and feeding of developers
 - [ ] E3D for dummies
+- [ ] E3D for piping engineers
