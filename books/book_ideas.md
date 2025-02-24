@@ -13,3 +13,4 @@
 - [ ] Mastering git
 - [ ] AutoCad P&ID norwegian
 - [ ] E3D for piping engineers
+- [ ] E3D for Civil
