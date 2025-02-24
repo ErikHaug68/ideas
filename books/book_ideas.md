@@ -9,3 +9,4 @@
 - [x] RxSwift by tutorials
 - [x] Mastering git
 - [x] Care and feeding of developers
+- [ ] E3D for dummies
